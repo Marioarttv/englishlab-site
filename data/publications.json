@@ -1,5 +1,15 @@
 [
   {
+    "id": "a22b1bcbf33c4a349eee1f496b3885ab",
+    "title": "Test4",
+    "authors": "Marco Polo",
+    "issn": "123123",
+    "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "category": "Book",
+    "url": "",
+    "createdAt": "2025-12-14T16:31:38.254+00:00"
+  },
+  {
     "id": "75e876ffa3db44e28e333f4a6d7f39d8",
     "title": "Test3",
     "authors": "Kim Llee",
