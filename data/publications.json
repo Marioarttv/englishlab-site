@@ -1,5 +1,15 @@
 [
   {
+    "id": "f4d54755b11242a4826c75719543b3b1",
+    "title": "Test2",
+    "authors": "Smith and Jones",
+    "issn": "1234-1234",
+    "abstract": "This is a brief abstract section:\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "category": "Digital Pedagogy",
+    "url": "Test.com",
+    "createdAt": "2025-12-14T14:30:09.07+00:00"
+  },
+  {
     "id": "8daa191df0514290beb30bd8e5273b1a",
     "title": "Test",
     "authors": "Mario Manzocco",
